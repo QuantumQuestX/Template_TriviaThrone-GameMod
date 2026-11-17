@@ -2,7 +2,7 @@
 <mod id="example-quiz">
     <name>Example Quiz</name>
     <version>1.0.0</version>
-    <apiVersion>2.0.1</apiVersion>
+    <apiVersion>2.1.0</apiVersion>
     <description>A minimal example game mod.</description>
     <providers>
         <provider class="example.triviathrone.game.ExampleQuizProvider"/>
